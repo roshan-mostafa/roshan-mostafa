@@ -1,6 +1,8 @@
-<h1 style="color:#1E90FF;">Hi there 👋, I'm Roshan Mostafa 😊</h1>
+
 
 <!-- عنوان الترحيب مع تأثير الكتابة -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Roshan+Mostafa+%F0%9F%98%8A)
+
 
 <p style="color:#32CD32;">Welcome to my GitHub profile! 🌟</p>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Roshan+Mostafa+%F0%9F%98%8A)
