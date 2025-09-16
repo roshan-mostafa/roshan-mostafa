@@ -1,9 +1,14 @@
-# Hi there 👋, I'm Roshan
+<h1 style="color:#1E90FF;">Hi there 👋, I'm Roshan</h1>
 
-Welcome to my GitHub profile!  
+<p style="color:#32CD32;">Welcome to my GitHub profile! 🌟</p>
 
-I'm an Electronics and Communications Engineering student with a passion for AI, IoT, and Smart Home technologies. I love learning new things, exploring projects, and applying my knowledge in real-world applications.
+<p style="color:#FF6347;">
+I'm an Electronics and Communications Engineering student with a passion for AI, IoT, and Smart Home technologies. 
+I love learning new things, exploring projects, and applying my knowledge in real-world applications. 🚀
+</p>
 
-Feel free to explore my repositories and connect with me!
+<p style="color:#8A2BE2;">
+Feel free to explore my repositories and connect with me! 💡
+</p>
 
-📫 You can reach me at: [LinkedIn](www.linkedin.com/in/roshan-mostafa-)
+📫 You can reach me at: <a href="https://www.linkedin.com/in/roshan/">LinkedIn</a>
