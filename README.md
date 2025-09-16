@@ -10,4 +10,4 @@ I love learning new things, exploring projects, and applying my knowledge in rea
 <p style="color:#8A2BE2;">
 Feel free to explore my repositories and connect with me! 💡
 </p>
-\
+
