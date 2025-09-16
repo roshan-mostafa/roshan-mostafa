@@ -1,4 +1,4 @@
-<h1 style="color:#1E90FF;">Hi there 👋, I'm Roshan Mostafa :smiling_face: </h1>
+<h1 style="color:#1E90FF;">Hi there 👋, I'm Roshan Mostafa ☺ </h1>
 
 <p style="color:#32CD32;">Welcome to my GitHub profile! 🌟</p>
 
