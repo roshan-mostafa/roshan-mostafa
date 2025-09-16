@@ -20,8 +20,4 @@ Feel free to explore my repositories and reach out to me. 💡
 
 📫 You can reach me at: 
   
-<p align="center">
-  <a href="https://www.linkedin.com/in/roshan-mostafa-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Roshan_Mostafa-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-mostafa-/)
