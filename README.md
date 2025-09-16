@@ -11,4 +11,4 @@ I love learning new things, exploring projects, and applying my knowledge in rea
 Feel free to explore my repositories and connect with me! 💡
 </p>
 
-📫 You can reach me at: <a href="https://www.linkedin.com/in/roshan/">LinkedIn</a>
+📫 You can reach me at: <a href="www.linkedin.com/in/roshan-mostafa-"LinkedIn</a>
